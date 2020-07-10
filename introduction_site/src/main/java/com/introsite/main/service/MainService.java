@@ -12,7 +12,6 @@ public class MainService {
     public MainMapper mainMapper;
     
     public String selectOneUserId() {
-        System.out.println("service 진입");
         return mainMapper.selectOneUserId();
     }
 

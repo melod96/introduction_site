@@ -33,7 +33,6 @@ public class MainController {
 			System.out.println("############MainController.goMain : 데이터 조회 중 에러 발생");
 			System.out.println(e.getMessage());
 		}
-		return "정상 진입 성공";
+		return "main/main";
 	}
-
 }
