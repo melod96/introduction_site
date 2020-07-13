@@ -2,10 +2,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "run (Launch) - Application",
+            "name": "CodeLens (Launch) - Application",
             "cwd": "${workspaceFolder}\\introduction_site",
             "request": "launch",
-            "mainClass": "com.Application",
+            "mainClass": "com.introsite.Application",
             "projectName": "intro"
         }
     ]

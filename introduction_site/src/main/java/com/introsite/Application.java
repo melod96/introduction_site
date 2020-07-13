@@ -1,4 +1,4 @@
-package com;
+package com.introsite;
 
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.mybatis.spring.SqlSessionFactoryBean;
